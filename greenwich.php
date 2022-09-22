@@ -1,2 +1,2 @@
 <?php
-echo "<h1>Chào mừng các tân sinh viên</h1>";
+echo "<h1>Chào mừng các tân sinh viên gia nhập ngôi nhà Greenwich Việt Nam</h1>";
