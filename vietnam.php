@@ -8,5 +8,6 @@
 </head>
 <body>
 <h1>Welcome to Greenwich University</h1>
+<img src="https://www.bkns.vn/wp-content/uploads/2022/09/loi-404-not-found-wordpress-la-gi.jpg" alt="">
 </body>
 </html>
